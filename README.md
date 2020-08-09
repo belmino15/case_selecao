@@ -1,7 +1,7 @@
 ## Seleção - Analista de Data Science Jr.
 ## Case para solução.
 
-O arquivo "case.pdf" contem as informações sobre as questões.
+Cada pasta contém um arquivo de imagem contendo as informações sobre as questões.
 
 As respostas foram dadas da seguinte forma:
 - Questão 1: DashBoard em PowerBI. Nome "dashboard_covid" na pasta "questao1";
